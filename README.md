@@ -1,5 +1,9 @@
 # Free Model Aggregator
 
+[![make.fun · free-model-aggregator-01](https://make.fun/badge/free-model-aggregator-01.svg)](https://make.fun/bounty/free-model-aggregator-01?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
+[![rank](https://make.fun/badge/free-model-aggregator-01/xbaystore/free-model-aggregator-01/rank.svg)](https://make.fun/bounty/free-model-aggregator-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
+[![reward](https://make.fun/badge/free-model-aggregator-01/xbaystore/free-model-aggregator-01/reward.svg)](https://make.fun/bounty/free-model-aggregator-01?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
+
 One server, two APIs, ten free-tier providers. It serves the OpenAI Chat Completions API
 (`POST /v1/chat/completions`) and the Anthropic Messages API (`POST /v1/messages`), each in JSON
 and in server-sent events, routing every request to the best free model that can serve it, and
